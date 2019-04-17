@@ -21,6 +21,7 @@ nav,
 section,
 summary {
   display: block;
+  margin-bottom: 50px;
 }
 audio,
 canvas,
